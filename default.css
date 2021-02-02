@@ -123,10 +123,9 @@ a:hover {
   margin-left: 100px;
   margin-right: 100px;
   background-color: #CBE1F9;
-  color: white;
+  color: black;
   cursor: pointer;
   padding: 0px;
-  width: 100%;
   border: none;
   text-align: left;
   outline: none;
