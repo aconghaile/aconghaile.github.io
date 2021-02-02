@@ -121,6 +121,8 @@ a:hover {
 
 .collapsible {
   background-color: #777;
+  margin-left: 100px;
+  margin-right: 100px;
   color: white;
   cursor: pointer;
   padding: 18px;
